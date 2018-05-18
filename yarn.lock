@@ -5784,6 +5784,15 @@ react-devtools-core@3.1.0:
     shell-quote "^1.6.1"
     ws "^2.0.3"
 
+"react-dom@>=15.0.0 || >=16.0.0":
+  version "16.3.2"
+  resolved "https://registry.yarnpkg.com/react-dom/-/react-dom-16.3.2.tgz#cb90f107e09536d683d84ed5d4888e9640e0e4df"
+  dependencies:
+    fbjs "^0.8.16"
+    loose-envify "^1.1.0"
+    object-assign "^4.1.1"
+    prop-types "^15.6.0"
+
 react-is@^16.3.1, react-is@^16.3.2:
   version "16.3.2"
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.3.2.tgz#f4d3d0e2f5fbb6ac46450641eb2e25bf05d36b22"
@@ -5969,7 +5978,7 @@ react@16.3.1:
     object-assign "^4.1.1"
     prop-types "^15.6.0"
 
-react@^16.0.0:
+"react@>=15.0.0 || >=16.0.0", react@^16.0.0:
   version "16.3.2"
   resolved "https://registry.yarnpkg.com/react/-/react-16.3.2.tgz#fdc8420398533a1e58872f59091b272ce2f91ea9"
   dependencies:
@@ -6049,6 +6058,13 @@ realpath-native@^1.0.0:
   resolved "https://registry.yarnpkg.com/realpath-native/-/realpath-native-1.0.0.tgz#7885721a83b43bd5327609f0ddecb2482305fdf0"
   dependencies:
     util.promisify "^1.0.0"
+
+reason-react@^0.4.1:
+  version "0.4.1"
+  resolved "https://registry.yarnpkg.com/reason-react/-/reason-react-0.4.1.tgz#f1c8bf0d116be6bf43109912ee4d95e58dd7c64f"
+  dependencies:
+    react ">=15.0.0 || >=16.0.0"
+    react-dom ">=15.0.0 || >=16.0.0"
 
 rechoir@^0.6.2:
   version "0.6.2"
