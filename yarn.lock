@@ -6063,6 +6063,10 @@ realpath-native@^1.0.0:
   dependencies:
     util.promisify "^1.0.0"
 
+reason-expo@^27.0.0:
+  version "27.0.0"
+  resolved "https://registry.yarnpkg.com/reason-expo/-/reason-expo-27.0.0.tgz#6708bc79dd8a8b6b90aa251175658983e958f751"
+
 reason-react@^0.4.1:
   version "0.4.1"
   resolved "https://registry.yarnpkg.com/reason-react/-/reason-react-0.4.1.tgz#f1c8bf0d116be6bf43109912ee4d95e58dd7c64f"
