@@ -5,5 +5,6 @@ let app = () =>
     style=Style.(
             style([flex(1.), justifyContent(Center), alignItems(Center)])
           )>
-    <Text value="Reason is awesome!" />
+    <Text value="Hi, this is a sample app," />
+    <Text value="using React Native, ReasonML and ReasonML Expo bindings" />
   </View>;
