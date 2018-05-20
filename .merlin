@@ -1,14 +1,16 @@
 ####{BSB GENERATED: NO EDIT
-FLG -ppx '/home/graham/development/rrnapp/node_modules/bs-platform/lib/reactjs_jsx_ppx_2.exe'
-FLG -ppx /home/graham/development/rrnapp/node_modules/bs-platform/lib/bsppx.exe
-S /home/graham/development/rrnapp/node_modules/bs-platform/lib/ocaml
-B /home/graham/development/rrnapp/node_modules/bs-platform/lib/ocaml
+FLG -ppx '/home/graham/development/weatherapp/weatherapp/node_modules/bs-platform/lib/reactjs_jsx_ppx_2.exe'
+FLG -ppx /home/graham/development/weatherapp/weatherapp/node_modules/bs-platform/lib/bsppx.exe
+S /home/graham/development/weatherapp/weatherapp/node_modules/bs-platform/lib/ocaml
+B /home/graham/development/weatherapp/weatherapp/node_modules/bs-platform/lib/ocaml
 FLG -nostdlib -no-alias-deps -color always
 FLG -w -30-40+6+7+27+32..39+44+45+101
-S /home/graham/development/rrnapp/node_modules/bs-react-native/lib/ocaml
-B /home/graham/development/rrnapp/node_modules/bs-react-native/lib/ocaml
-S /home/graham/development/rrnapp/node_modules/reason-react/lib/ocaml
-B /home/graham/development/rrnapp/node_modules/reason-react/lib/ocaml
+S /home/graham/development/weatherapp/weatherapp/node_modules/bs-react-native/lib/ocaml
+B /home/graham/development/weatherapp/weatherapp/node_modules/bs-react-native/lib/ocaml
+S /home/graham/development/weatherapp/weatherapp/node_modules/reason-react/lib/ocaml
+B /home/graham/development/weatherapp/weatherapp/node_modules/reason-react/lib/ocaml
+S /home/graham/development/weatherapp/weatherapp/node_modules/reason-expo/lib/ocaml
+B /home/graham/development/weatherapp/weatherapp/node_modules/reason-expo/lib/ocaml
 S re
 B lib/bs/re
 ####BSB GENERATED: NO EDIT}

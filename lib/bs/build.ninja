@@ -1,16 +1,16 @@
-bs_package_flags = -bs-package-name rrnapp
-src_root_dir = /home/graham/development/rrnapp
-bsc = /home/graham/development/rrnapp/node_modules/bs-platform/lib/bsc.exe
-bsdep = /home/graham/development/rrnapp/node_modules/bs-platform/lib/bsb_helper.exe
+bs_package_flags = -bs-package-name weatherapp
+src_root_dir = /home/graham/development/weatherapp/weatherapp
+bsc = /home/graham/development/weatherapp/weatherapp/node_modules/bs-platform/lib/bsc.exe
+bsdep = /home/graham/development/weatherapp/weatherapp/node_modules/bs-platform/lib/bsb_helper.exe
 warnings = -w -30-40+6+7+27+32..39+44+45+101
-bsc_flags = -nostdlib -I '/home/graham/development/rrnapp/node_modules/bs-platform/lib/ocaml' -bs-super-errors -no-alias-deps -color always
+bsc_flags = -nostdlib -I '/home/graham/development/weatherapp/weatherapp/node_modules/bs-platform/lib/ocaml' -bs-super-errors -no-alias-deps -color always
 ppx_flags = 
-bs_package_includes = -I /home/graham/development/rrnapp/node_modules/bs-react-native/lib/ocaml -I /home/graham/development/rrnapp/node_modules/reason-react/lib/ocaml
+bs_package_includes = -I /home/graham/development/weatherapp/weatherapp/node_modules/bs-react-native/lib/ocaml -I /home/graham/development/weatherapp/weatherapp/node_modules/reason-react/lib/ocaml -I /home/graham/development/weatherapp/weatherapp/node_modules/reason-expo/lib/ocaml
 bs_package_dev_includes = 
 namespace = 
 bsb_dir_group = 0
-refmt = /home/graham/development/rrnapp/node_modules/bs-platform/lib/refmt.exe
-reason_react_jsx = -ppx '/home/graham/development/rrnapp/node_modules/bs-platform/lib/reactjs_jsx_ppx_2.exe'
+refmt = /home/graham/development/weatherapp/weatherapp/node_modules/bs-platform/lib/refmt.exe
+reason_react_jsx = -ppx '/home/graham/development/weatherapp/weatherapp/node_modules/bs-platform/lib/reactjs_jsx_ppx_2.exe'
 refmt_flags = --print binary
 bsc_lib_includes = -I re
 rule build_ast_and_module_sets_from_re

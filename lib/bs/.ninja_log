@@ -1,21 +1,6 @@
 # ninja log v5
-0	39	1526645350	re/app.mlast	78ec3b28c13c2bea
-39	46	1526645350	re/app.mlast.d	feff11fbd8ef14c6
-0	30	1526645350	re/app.cmj	c755d6f05d6bee86
-0	30	1526645350	/home/graham/development/rrnapp/lib/js/re/app.js	c755d6f05d6bee86
-0	30	1526645350	re/app.cmi	c755d6f05d6bee86
-0	56	1526646173	re/app.mlast	78ec3b28c13c2bea
-57	69	1526646173	re/app.mlast.d	feff11fbd8ef14c6
-0	41	1526646173	re/app.cmj	c755d6f05d6bee86
-0	41	1526646173	/home/graham/development/rrnapp/lib/js/re/app.js	c755d6f05d6bee86
-0	41	1526646173	re/app.cmi	c755d6f05d6bee86
-0	53	1526648134	re/app.mlast	78ec3b28c13c2bea
-53	66	1526648134	re/app.mlast.d	feff11fbd8ef14c6
-0	38	1526648134	re/app.cmj	c755d6f05d6bee86
-0	38	1526648134	/home/graham/development/rrnapp/lib/js/re/app.js	c755d6f05d6bee86
-0	38	1526648134	re/app.cmi	c755d6f05d6bee86
-0	36	1526767215	re/app.mlast	78ec3b28c13c2bea
-36	44	1526767215	re/app.mlast.d	feff11fbd8ef14c6
-0	31	1526767215	re/app.cmj	c755d6f05d6bee86
-0	31	1526767215	/home/graham/development/rrnapp/lib/js/re/app.js	c755d6f05d6bee86
-0	31	1526767215	re/app.cmi	c755d6f05d6bee86
+0	32	1526770105	re/app.mlast	d6a2dd582faaf084
+32	44	1526770105	re/app.mlast.d	1d4443e934f64958
+1	34	1526770105	re/app.cmj	fc6249e23bec368f
+1	34	1526770105	/home/graham/development/weatherapp/weatherapp/lib/js/re/app.js	fc6249e23bec368f
+1	34	1526770105	re/app.cmi	fc6249e23bec368f
